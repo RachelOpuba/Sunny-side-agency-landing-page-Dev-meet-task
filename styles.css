@@ -21,7 +21,7 @@ p{
 .hero-sec{
     height: 500px;
     width: 100%;
-    background-image: url(/images/desktop/image-header.jpg);
+    background-image: url(images/desktop/image-header.jpg);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -146,7 +146,7 @@ a:hover{
  }
 
  .gal-one-img{
-     background-image: url(/images/desktop/image-transform.jpg);
+     background-image: url(images/desktop/image-transform.jpg);
      background-size: cover;
      background-position: 50% 50%;
      background-repeat: no-repeat;
@@ -199,13 +199,13 @@ a:hover{
     }
 
     .first{
-        background-image: url(/images/desktop/image-stand-out.jpg);
+        background-image: url(images/desktop/image-stand-out.jpg);
         background-size: cover;
         background-position:50% 50% ;
     }
 
     .first{
-        background-image: url(/images/desktop/image-stand-out.jpg);
+        background-image: url(images/desktop/image-stand-out.jpg);
         background-size: cover;
         background-position:50% 50% ;
     }
@@ -215,7 +215,7 @@ a:hover{
     }
 
     .third{
-        background-image: url(/images/desktop/image-graphic-design.jpg);
+        background-image: url(images/desktop/image-graphic-design.jpg);
         background-size: cover;
         background-position:50% 50% ;
     }
@@ -239,7 +239,7 @@ a:hover{
 
 
     .fourth{
-        background-image: url(/images/desktop/image-photography.jpg);
+        background-image: url(images/desktop/image-photography.jpg);
         background-size: cover;
         background-position:50% 50% ;
         
@@ -529,7 +529,7 @@ a:hover{
 
     .first{
         height: 200px;
-        background-image: url(/images/mobile/image-stand-out.jpg);
+        background-image: url(images/mobile/image-stand-out.jpg);
         background-size: cover;
         position: 50% 50%;   
     }
@@ -582,7 +582,7 @@ a:hover{
     }
 
     .gal-one-img{
-        background-image: url(/images/mobile/image-transform.jpg);
+        background-image: url(images/mobile/image-transform.jpg);
         height: 500px;
  }
 }
