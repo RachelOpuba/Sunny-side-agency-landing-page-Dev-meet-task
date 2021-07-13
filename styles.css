@@ -483,10 +483,6 @@ a:hover{
     .testimony-sec h2{
         font-size: 18px;
     }
-    .testimony-content p {
-        
-        padding-bottom: 0px;
-    }
 
     .testimony-content img{
         height: 45px;
@@ -585,4 +581,106 @@ a:hover{
         background-image: url(images/mobile/image-transform.jpg);
         height: 500px;
  }
+}
+
+
+
+@media screen  and (max-width: 500px){
+    
+    .page-wraper{
+        width: 100%;
+    }
+
+    .hero-sec{
+        height: 550px;
+    }
+
+    .header-text{
+        padding-top: 20px;
+        font-size: 1.1rem;
+    }
+
+    .header-arrow img{
+        height: 90px;
+        
+    }
+
+    .header-arrow {
+        padding-top: px;
+    }
+
+    .nav-bar img, .hamburger{
+        margin-top: -10px
+    }
+
+    .nav-bar img{
+        height: 20px;
+    }
+
+
+    .gal-one, .gal-two{
+        text-align: center;
+    }
+
+    .gal-one h1, .gal-two h1{
+        font-size: 1.8rem;
+    }
+
+    .gal-one-text{
+        padding: 30px;
+    }
+
+    .gal-one{
+        height: 600px;
+    }
+
+    .learn{
+        margin: auto;
+        margin-top: -22px;
+    }
+
+    .second h1{
+        padding: 20px;
+        padding-bottom: 0px;
+        
+    }
+
+    .second p{
+        padding:20px ;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+     .third h3. .fourth h3{
+         margin-top: 40px;
+         padding-bottom: 0px;
+     }
+
+     .testimony-sec{
+         padding-top: 50px;
+         padding-bottom: 50px
+     }
+     
+     .testimony-sec h2{
+         padding-bottom: 30px;
+     }
+
+    .testimony-sec p, .gal-one p, .gal-two p{
+        font-size: 16px;
+        line-height: 1.3rem;
+        text-align: center;
+        margin-bottom: -8px;
+    }
+
+    .thomas, .jennie{
+        margin-top: 20px;
+    }
+
+    .third p, .fourth p{
+        font-size: 14px;
+        padding-bottom: 20px;
+        padding-top: 0px;
+        margin-top: -5px
+    }
+
+   
 }
